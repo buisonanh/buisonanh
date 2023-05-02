@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# I am currently a Computing student and have massive interest in Machine Learning in general
+
+
+
 <!--
 **buisonanh/buisonanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
