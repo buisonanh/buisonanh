@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-# I am currently a Computing student and have massive interest in Machine Learning in general
+I am currently a Computing student and have massive interest in Machine Learning in general
 
 
 
