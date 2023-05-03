@@ -1,6 +1,6 @@
 ## Hi 👋
 
-#### I am a passionate Computing student with a strong interest in Machine Learning. I have hands-on experience in developing machine learning models for a variety of problems and am constantly seeking to learn more about this exciting field. In particular, I am eager to expand my knowledge of deep learning and explore its diverse applications 🌱. I am dedicated to leveraging cutting-edge technologies to solve complex problems and am always looking for new challenges to enhance my skills. 🔭
+I am a Computing student with a passion for Machine Learning. I have experience developing machine learning models for various problems and am always looking to learn more about this exciting field. I’m particularly interested in deep learning and its diverse applications 🌱. I’m dedicated to using cutting-edge technologies to solve complex problems and am always looking for new challenges to enhance my skills. 🔭
 
 ![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buisonanh&theme=react&hide_border=true)
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=buisonanh&theme=react&hide_border=true) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=buisonanh&theme=react&hide_border=true)](https://github.com/anuraghazra/readme-components)
