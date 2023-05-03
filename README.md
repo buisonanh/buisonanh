@@ -2,7 +2,7 @@
 
 I am a Computing student with a passion for Machine Learning 🤖. I have experience developing machine learning models for various problems and am always looking to learn more about this exciting field 🚀. I’m particularly interested in deep learning and its diverse applications 🌱. I’m dedicated to using cutting-edge technologies to solve complex problems and am always looking for new challenges to enhance my skills. 🔭
 
-[![](https://img.shields.io/badge/languages?style=for-the-badge&logo=python&logoColor=F7DF1E)]
+[![](https://img.shields.io/badge/python?style=for-the-badge&logo=languages&logoColor=F7DF1E)]
 ![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buisonanh&theme=react&hide_border=true)
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=buisonanh&theme=react&hide_border=true) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=buisonanh&theme=react&hide_border=true)](https://github.com/anuraghazra/readme-components)
 
