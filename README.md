@@ -4,7 +4,7 @@ I am a passionate Computing student with a strong interest in Machine Learning. 
 
 ![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buisonanh&theme=dark&hide_border=true)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=buisonanh&theme=dark&hide_border=true)](https://github.com/anuraghazra/readme-components) [![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=buisonanh&theme=dark&hide_border=true)](https://github.com/anuraghazra/readme-components) [![Profile views](https://gpvc.arturio.dev/[buisonanh])
 <!--
 **buisonanh/buisonanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
