@@ -4,7 +4,7 @@ I am a passionate Computing student with a strong interest in Machine Learning. 
 
 ![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buisonanh&theme=react&hide_border=true)
 
-[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=buisonanh&theme=react&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+[![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=buisonanh&theme=react)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=buisonanh&theme=react&hide_border=true)](https://github.com/anuraghazra/readme-components)
 
