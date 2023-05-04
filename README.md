@@ -4,8 +4,6 @@ I'm currently a Computing student with a passion for Machine Learning 🤖. I ha
 
 ![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buisonanh&theme=react&hide_border=true)
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=buisonanh&theme=react&hide_border=true) 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=buisonanh&theme=react&hide_border=true)](https://github.com/anuraghazra/readme-components)
-
 
 <!--
 **buisonanh/buisonanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
